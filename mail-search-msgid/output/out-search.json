@@ -1,0 +1,59 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('jack.smith%40pfpt100.com')/messages",
+  "value": [
+    {
+      "@odata.etag": "W/\"CQAAABYAAADUW3BJ8ooHS7/ISkSqVT2tAADN9Nl1\"",
+      "bccRecipients": [],
+      "body": {
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div style=\"display:none!important; visibility:hidden; font-size:1px; color:#ffffff; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden\">Bcc99 cargo ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ </div><div style=\"display:none!important; visibility:hidden; font-size:1px; color:#ffffff; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden\">ZjQcmQRYFpfptBannerStart</div><div dir=\"ltr\" id=\"pfptBannerzpf6obr\" style=\"display:block!important; text-align:left!important; margin:16px 0px 16px 0px!important; padding:8px 16px 8px 16px!important; border-radius:4px!important; min-width:200px!important; background-color:#D0D8DC!important; border-top:4px solid #90a4ae!important\"><div id=\"pfptBannerzpf6obr\" style=\"float:left!important; display:block!important; margin:0px 0px 1px 0px!important; max-width:600px!important\"><div id=\"pfptBannerzpf6obr\" style=\"display:block!important; visibility:visible!important; background-color:#D0D8DC!important; color:#000000!important; font-family:'Arial',sans-serif!important; font-weight:bold!important; font-size:14px!important; line-height:18px!important\">This Message Is From an External Sender </div><div id=\"pfptBannerzpf6obr\" style=\"display:block!important; visibility:visible!important; background-color:#D0D8DC!important; color:#000000!important; font-weight:normal!important; font-family:'Arial',sans-serif!important; font-size:12px!important; line-height:18px!important; margin-top:2px!important\">This message came from outside your organization. </div></div><div style=\"clear:both!important; display:block!important; visibility:hidden!important; line-height:0!important; font-size:0.01px!important\">&nbsp;</div></div><div style=\"display:none!important; visibility:hidden; font-size:1px; color:#ffffff; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden\">ZjQcmQRYFpfptBannerEnd</div><style>\r\n<!--\r\n#pfptBannerzpf6obr\r\n\t{display:block!important;\r\n\tvisibility:visible!important;\r\n\topacity:1!important;\r\n\tbackground-color:#D0D8DC!important;\r\n\tmax-width:none!important;\r\n\tmax-height:none!important}\r\n-->\r\n</style><meta content=\"Microsoft Word 15 (filtered medium)\"><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle17\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-family:\"Calibri\",sans-serif}\r\n@page WordSection1\r\n\t{margin:1.0in 1.0in 1.0in 1.0in}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style><div class=\"WordSection1\"><p class=\"MsoNormal\">Bcc99 cargo</p></div></body></html>",
+        "contentType": "html"
+      },
+      "bodyPreview": "Bcc99 cargo ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍",
+      "categories": [],
+      "ccRecipients": [],
+      "changeKey": "CQAAABYAAADUW3BJ8ooHS7/ISkSqVT2tAADN9Nl1",
+      "conversationId": "AAQkADQwYmE1YTIzLTBhMGMtNDJhNS1hODMxLWRlZDdmMjExZTQ3ZAAQAAXjsA6Ck5NHtrqksDLdVnk=",
+      "conversationIndex": "AQHYVGBTBeOwDoKTk0e2uqSwMt1WeQ==",
+      "createdDateTime": "2022-04-20T02:43:47Z",
+      "flag": {
+        "flagStatus": "notFlagged"
+      },
+      "from": {
+        "emailAddress": {
+          "address": "jyun@proofpoint.com",
+          "name": "Joseph Yun"
+        }
+      },
+      "hasAttachments": false,
+      "id": "AAMkADQwYmE1YTIzLTBhMGMtNDJhNS1hODMxLWRlZDdmMjExZTQ3ZABGAAAAAACKRf9LjJ4lRp9tRuUIFRpTBwDUW3BJ8ooHS7-ISkSqVT2tAAAAAAEMAADUW3BJ8ooHS7-ISkSqVT2tAADOS3kKAAA=",
+      "importance": "normal",
+      "inferenceClassification": "focused",
+      "internetMessageId": "<BYAPR12MB296752814DE5497D35816E87B5F59@BYAPR12MB2967.namprd12.prod.outlook.com>",
+      "isDeliveryReceiptRequested": null,
+      "isDraft": false,
+      "isRead": true,
+      "isReadReceiptRequested": false,
+      "lastModifiedDateTime": "2022-04-20T02:43:48Z",
+      "parentFolderId": "AQMkADQwYmE1YTIzLTBhMGMtNDJhNS1hODMxLWRlZDdmMjExAGU0N2QALgAAA4pF-0uMniVGn21G5QgVGlMBANRbcEnyigdLv8hKRKpVPa0AAAIBDAAAAA==",
+      "receivedDateTime": "2022-04-20T02:43:47Z",
+      "replyTo": [],
+      "sender": {
+        "emailAddress": {
+          "address": "jyun@proofpoint.com",
+          "name": "Joseph Yun"
+        }
+      },
+      "sentDateTime": "2022-04-20T02:43:35Z",
+      "subject": "bcc99 cargo",
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "jack.smith@pfpt100.com",
+            "name": "jack smith"
+          }
+        }
+      ],
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADQwYmE1YTIzLTBhMGMtNDJhNS1hODMxLWRlZDdmMjExZTQ3ZABGAAAAAACKRf9LjJ4lRp9tRuUIFRpTBwDUW3BJ8ooHS7%2FISkSqVT2tAAAAAAEMAADUW3BJ8ooHS7%2FISkSqVT2tAADOS3kKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    }
+  ]
+}
